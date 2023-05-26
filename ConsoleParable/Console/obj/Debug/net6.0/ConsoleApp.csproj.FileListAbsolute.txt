@@ -1,0 +1,15 @@
+E:\Projeto\MyRepository\lauristi\donetConsoleParable\ConsoleParable\Console\bin\Debug\net6.0\ConsoleApp.exe
+E:\Projeto\MyRepository\lauristi\donetConsoleParable\ConsoleParable\Console\bin\Debug\net6.0\ConsoleApp.deps.json
+E:\Projeto\MyRepository\lauristi\donetConsoleParable\ConsoleParable\Console\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+E:\Projeto\MyRepository\lauristi\donetConsoleParable\ConsoleParable\Console\bin\Debug\net6.0\ConsoleApp.dll
+E:\Projeto\MyRepository\lauristi\donetConsoleParable\ConsoleParable\Console\bin\Debug\net6.0\ConsoleApp.pdb
+E:\Projeto\MyRepository\lauristi\donetConsoleParable\ConsoleParable\Console\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
+E:\Projeto\MyRepository\lauristi\donetConsoleParable\ConsoleParable\Console\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projeto\MyRepository\lauristi\donetConsoleParable\ConsoleParable\Console\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+E:\Projeto\MyRepository\lauristi\donetConsoleParable\ConsoleParable\Console\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+E:\Projeto\MyRepository\lauristi\donetConsoleParable\ConsoleParable\Console\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Projeto\MyRepository\lauristi\donetConsoleParable\ConsoleParable\Console\obj\Debug\net6.0\ConsoleApp.dll
+E:\Projeto\MyRepository\lauristi\donetConsoleParable\ConsoleParable\Console\obj\Debug\net6.0\refint\ConsoleApp.dll
+E:\Projeto\MyRepository\lauristi\donetConsoleParable\ConsoleParable\Console\obj\Debug\net6.0\ConsoleApp.pdb
+E:\Projeto\MyRepository\lauristi\donetConsoleParable\ConsoleParable\Console\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+E:\Projeto\MyRepository\lauristi\donetConsoleParable\ConsoleParable\Console\obj\Debug\net6.0\ref\ConsoleApp.dll
